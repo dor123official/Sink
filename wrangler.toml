@@ -1,0 +1,11 @@
+upload_source_maps = true
+
+[dev]
+port = 3000
+
+[ai]
+binding = "AI"
+
+[analytics_engine_datasets]
+binding = "ANALYTICS"
+dataset = "sink"
